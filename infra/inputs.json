@@ -1,33 +1,101 @@
 {
   "github_usernames": {
     "admins": [
+      "Hef50",
+      "SamEthanMathew",
       "Yuxiang-Huang",
+      "alanpham06",
+      "christinamli",
       "dsnarne",
       "hanabenko",
-      "alanpham06",
-      "laasyaaki",
       "jagong-cmu",
-      "christinamli",
-      "Hef50",
-      "SamEthanMathew"
+      "laasyaaki"
     ],
-    "non_admins": []
+    "non_admins": [
+      "Yutai007",
+      "a-varigonda",
+      "aanya21gupta",
+      "appleorange",
+      "arhavthakkar",
+      "ashah48",
+      "bmood25",
+      "cheezypegasus",
+      "csongfm",
+      "davidx2-gif",
+      "graceguo16",
+      "ipyoon",
+      "justinwu80",
+      "noe2971",
+      "rarangil",
+      "rayank7674",
+      "samad2084",
+      "sophiez3",
+      "szzxt",
+      "tejaschaudhari131",
+      "veriivy"
+    ]
   },
   "andrew_ids": {
     "admins": [
-      "yh4",
-      "dnarne",
-      "hbenko",
       "alanp",
-      "laki",
-      "jagong",
       "cmli2",
+      "dnarne",
       "hareshmu",
-      "semathew"
+      "hbenko",
+      "jagong",
+      "laki",
+      "semathew",
+      "yh4"
     ],
-    "non_admins": []
+    "non_admins": [
+      "aahans",
+      "aanyag2",
+      "abthakka",
+      "audreyz2",
+      "avarigon",
+      "bmood",
+      "cesong",
+      "charlie3",
+      "davidx2",
+      "ipae",
+      "jzwu",
+      "nchandy",
+      "rarangil",
+      "rkha",
+      "sabellah",
+      "samad",
+      "sophiez3",
+      "susanzuo",
+      "tchaudha",
+      "yumengg2",
+      "yutailon"
+    ]
   },
   "teams": {
+    "andrew-inbox": {
+      "name": "Andrew Inbox",
+      "description": "Web extension to push an automatic, customizable, summary of emails and Canvas, Ed, Piazza and other softwares' posts, creating a daily/weekly to-do list.\n",
+      "members": {
+        "github_usernames": [
+          "a-varigonda"
+        ],
+        "andrew_ids": [
+          "avarigon"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "a-varigonda"
+        ],
+        "andrew_ids": [
+          "avarigon"
+        ]
+      },
+      "repos": [
+        "Andrew-Inbox"
+      ],
+      "create_oidc_clients": false
+    },
     "goldador": {
       "name": "Goldador",
       "description": "Responsible for governance in Labrador.",
@@ -57,38 +125,38 @@
       "description": "Internal recruitment review platform for ScottyLabs leadership. Human review workflow over committee applications - no AI applicant evaluation.",
       "members": {
         "github_usernames": [
-          "Yuxiang-Huang",
-          "hanabenko",
-          "dsnarne",
-          "alanpham06",
-          "laasyaaki",
-          "jagong-cmu",
-          "christinamli",
           "Hef50",
-          "SamEthanMathew"
+          "SamEthanMathew",
+          "Yuxiang-Huang",
+          "alanpham06",
+          "christinamli",
+          "dsnarne",
+          "hanabenko",
+          "jagong-cmu",
+          "laasyaaki"
         ],
         "andrew_ids": [
-          "yh4",
-          "hbenko",
-          "dnarne",
           "alanp",
-          "laki",
-          "jagong",
           "cmli2",
+          "dnarne",
           "hareshmu",
-          "semathew"
+          "hbenko",
+          "jagong",
+          "laki",
+          "semathew",
+          "yh4"
         ]
       },
       "admins": {
         "github_usernames": [
+          "SamEthanMathew",
           "Yuxiang-Huang",
-          "hanabenko",
-          "SamEthanMathew"
+          "hanabenko"
         ],
         "andrew_ids": [
-          "yh4",
           "hbenko",
-          "semathew"
+          "semathew",
+          "yh4"
         ]
       },
       "repos": [
@@ -103,26 +171,26 @@
       "description": "The Labrador leadership team.",
       "members": {
         "github_usernames": [
+          "Hef50",
+          "SamEthanMathew",
           "Yuxiang-Huang",
+          "alanpham06",
+          "christinamli",
           "dsnarne",
           "hanabenko",
-          "alanpham06",
-          "laasyaaki",
           "jagong-cmu",
-          "christinamli",
-          "Hef50",
-          "SamEthanMathew"
+          "laasyaaki"
         ],
         "andrew_ids": [
-          "yh4",
-          "dnarne",
-          "hbenko",
           "alanp",
-          "laki",
-          "jagong",
           "cmli2",
+          "dnarne",
           "hareshmu",
-          "semathew"
+          "hbenko",
+          "jagong",
+          "laki",
+          "semathew",
+          "yh4"
         ]
       },
       "admins": {
@@ -131,8 +199,8 @@
           "hanabenko"
         ],
         "andrew_ids": [
-          "yh4",
-          "hbenko"
+          "hbenko",
+          "yh4"
         ]
       },
       "repos": [
@@ -160,7 +228,7 @@
         ]
       },
       "repos": [
-        "meet"
+        "Meet"
       ],
       "create_oidc_clients": true,
       "website": "meet.scottylabs.org",
@@ -262,18 +330,18 @@
       "members": {
         "github_usernames": [],
         "andrew_ids": [
-          "yingyiw",
+          "mbatkhuu",
           "nayonk",
           "rushabhj",
-          "mbatkhuu"
+          "yingyiw"
         ]
       },
       "admins": {
         "github_usernames": [],
         "andrew_ids": [
-          "yingyiw",
           "nayonk",
-          "rushabhj"
+          "rushabhj",
+          "yingyiw"
         ]
       },
       "repos": [],
