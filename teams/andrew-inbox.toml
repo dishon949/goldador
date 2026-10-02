@@ -1,0 +1,35 @@
+name = "Andrew Inbox"
+description = """
+Web extension to push an automatic, customizable, summary of emails and Canvas, Ed, Piazza and other softwares' posts, creating a daily/weekly to-do list.
+"""
+create-oidc-clients = false
+
+[[repos]]
+name = "Andrew-Inbox"
+description = "Web extension to push an automatic, customizable, summary of emails and Canvas, Ed, Piazza and other softwares' posts, creating a daily/weekly to-do list."
+
+
+[[membership]]
+timeframe = "2026-2027"
+leads = ["a-varigonda"]
+
+[[membership.members]]
+github-username = "a-varigonda"
+
+[[membership.members]]
+github-username = "rocketrules"
+
+[[membership.members]]
+github-username = "rohansp007"
+
+[[membership.members]]
+github-username = "brady-q"
+
+[[membership.members]]
+github-username = "pnimmaga-jpg"
+
+[[membership.members]]
+github-username = "ay93546"
+
+[[membership.members]]
+github-username = "the-srianeesh"

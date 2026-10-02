@@ -1,42 +1,338 @@
 {
   "github_usernames": {
     "admins": [
+      "Hef50",
+      "SamEthanMathew",
       "Yuxiang-Huang",
+      "alanpham06",
+      "christinamli",
       "dsnarne",
       "hanabenko",
-      "alanpham06",
-      "laasyaaki",
       "jagong-cmu",
-      "christinamli",
-      "Hef50",
-      "SamEthanMathew"
+      "laasyaaki"
     ],
-    "non_admins": []
+    "non_admins": [
+      "AA2026",
+      "EnspikondPlusPlus",
+      "EthanZ2007",
+      "HarishSenthilkumar",
+      "JiayiH08",
+      "KeyaanMatrix",
+      "NainaEnock",
+      "Yutai007",
+      "a-gupta123",
+      "a-varigonda",
+      "aanya21gupta",
+      "amishigupta",
+      "angely32",
+      "appleorange",
+      "arhavthakkar",
+      "arjunmaganti",
+      "arren51",
+      "ashah48",
+      "ay93546",
+      "bmood25",
+      "brady-q",
+      "cahove",
+      "carolyne-chiang",
+      "cheezypegasus",
+      "csongfm",
+      "davidx2-gif",
+      "didikana",
+      "dishon949",
+      "dzhou08",
+      "eitankrajewski",
+      "ethanliu2026",
+      "faribahnuha",
+      "graceguo16",
+      "henhen1235",
+      "hnaracodes",
+      "ipyoon",
+      "jahuang24",
+      "janek0420",
+      "justinwu80",
+      "k3t6hup",
+      "kevin20074321",
+      "khushij312",
+      "klz037",
+      "kzz9984",
+      "maxwellliu07",
+      "nicholascui225",
+      "noe2971",
+      "nosleep32",
+      "pnimmaga-jpg",
+      "rarangil",
+      "rayank7674",
+      "riishp",
+      "rocketrules",
+      "rohansp007",
+      "ryanwong05",
+      "s520y",
+      "sagelu1",
+      "samad2084",
+      "sdavidi-ai",
+      "sophiez3",
+      "sophiezxh",
+      "stingray8",
+      "szzxt",
+      "tejaschaudhari131",
+      "the-srianeesh",
+      "veriivy",
+      "victoriasun2007",
+      "ziwei-che"
+    ]
   },
   "andrew_ids": {
     "admins": [
-      "yh4",
-      "dnarne",
-      "hbenko",
       "alanp",
-      "laki",
-      "jagong",
       "cmli2",
+      "dnarne",
       "hareshmu",
-      "semathew"
+      "hbenko",
+      "jagong",
+      "laki",
+      "semathew",
+      "yh4"
     ],
-    "non_admins": []
+    "non_admins": [
+      "aahans",
+      "aanyag2",
+      "aayana",
+      "abthakka",
+      "amaganti",
+      "amishig",
+      "angely",
+      "aravagar",
+      "aryangup",
+      "audreyya",
+      "audreyz2",
+      "avarigon",
+      "avijendr",
+      "bmood",
+      "bquo",
+      "carolyne",
+      "cesong",
+      "charlie3",
+      "chove",
+      "darisan",
+      "davidx2",
+      "dhzhou",
+      "ekrajews",
+      "ethanlil",
+      "ethanzhe",
+      "fmn",
+      "hhxu",
+      "hnara",
+      "hsenthil",
+      "ipae",
+      "ivanz",
+      "janekim",
+      "jarretth",
+      "jiayihu",
+      "jzwu",
+      "kasubash",
+      "kelseyli",
+      "keyaans",
+      "khushij",
+      "ktan2",
+      "kzzhao",
+      "liweix",
+      "myliu2",
+      "nainae",
+      "nchandy",
+      "ncui2",
+      "ndishon",
+      "pnimmaga",
+      "rarangil",
+      "renfeirw",
+      "rkha",
+      "rpachava",
+      "rparthip",
+      "sabellah",
+      "sagelu",
+      "samad",
+      "sdavidi",
+      "seany2",
+      "sophiez3",
+      "srianeek",
+      "susanzuo",
+      "szhang4",
+      "tchaudha",
+      "tingrayc",
+      "vmsun",
+      "yumengg2",
+      "yutailon",
+      "ziweiche"
+    ]
   },
   "teams": {
+    "andrew-inbox": {
+      "name": "Andrew Inbox",
+      "description": "Web extension to push an automatic, customizable, summary of emails and Canvas, Ed, Piazza and other softwares' posts, creating a daily/weekly to-do list.\n",
+      "members": {
+        "github_usernames": [
+          "a-varigonda",
+          "ay93546",
+          "brady-q",
+          "pnimmaga-jpg",
+          "rocketrules",
+          "rohansp007",
+          "the-srianeesh"
+        ],
+        "andrew_ids": [
+          "aravagar",
+          "audreyya",
+          "avarigon",
+          "bquo",
+          "pnimmaga",
+          "rparthip",
+          "srianeek"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "a-varigonda"
+        ],
+        "andrew_ids": [
+          "avarigon"
+        ]
+      },
+      "repos": [
+        "Andrew-Inbox"
+      ],
+      "create_oidc_clients": false
+    },
+    "brieflyai": {
+      "name": "Briefly AI",
+      "description": "Briefly allows users to curate multiple newsletters\nbased on their interests like in sports or finance.\nAn AI will automatically generate the newsletter described and email\nit to users at user-specified times.\n",
+      "members": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "cahove"
+        ],
+        "andrew_ids": [
+          "chove"
+        ]
+      },
+      "repos": [
+        "ai-newsletter"
+      ],
+      "create_oidc_clients": false,
+      "website": "",
+      "server": ""
+    },
+    "cmu-bulletin": {
+      "name": "CMU Bulletin",
+      "description": "Your one-stop shop for everything happening at Carnegie Mellon. Never miss an event on campus again.\n",
+      "members": {
+        "github_usernames": [
+          "angely32",
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "angely",
+          "ziweiche"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "ziwei-che"
+        ],
+        "andrew_ids": [
+          "ziweiche"
+        ]
+      },
+      "repos": [
+        "CMU-Bulletin"
+      ],
+      "create_oidc_clients": true,
+      "website": "cmubulletin.com",
+      "server": "your-team-server.com"
+    },
+    "cmu-research": {
+      "name": "CMU Research",
+      "description": "CMU Research Team",
+      "members": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "jahuang24",
+          "nicholascui225"
+        ],
+        "andrew_ids": [
+          "jarretth",
+          "ncui2"
+        ]
+      },
+      "repos": [
+        "ResearchStarter"
+      ],
+      "create_oidc_clients": false
+    },
+    "cmu-scottytasks": {
+      "name": "CMU-ScottyTasks",
+      "description": "A mobile gamified task/habit tracker with a leaderboard system and a personalized, upgradable Scotty dog avatar.\"\n",
+      "members": {
+        "github_usernames": [
+          "dishon949"
+        ],
+        "andrew_ids": [
+          "ndishon"
+        ]
+      },
+      "admins": {
+        "github_usernames": [
+          "dishon949"
+        ],
+        "andrew_ids": [
+          "ndishon"
+        ]
+      },
+      "repos": [
+        "CMU-ScottyTasks"
+      ],
+      "create_oidc_clients": false
+    },
     "goldador": {
       "name": "Goldador",
       "description": "Responsible for governance in Labrador.",
       "members": {
         "github_usernames": [
-          "Yuxiang-Huang"
+          "SamEthanMathew",
+          "Yuxiang-Huang",
+          "a-varigonda",
+          "cahove",
+          "dishon949",
+          "hanabenko",
+          "jahuang24",
+          "nicholascui225",
+          "ziwei-che"
         ],
         "andrew_ids": [
-          "yh4"
+          "avarigon",
+          "chove",
+          "hbenko",
+          "jarretth",
+          "ncui2",
+          "ndishon",
+          "semathew",
+          "yh4",
+          "ziweiche"
         ]
       },
       "admins": {
@@ -57,38 +353,38 @@
       "description": "Internal recruitment review platform for ScottyLabs leadership. Human review workflow over committee applications - no AI applicant evaluation.",
       "members": {
         "github_usernames": [
-          "Yuxiang-Huang",
-          "hanabenko",
-          "dsnarne",
-          "alanpham06",
-          "laasyaaki",
-          "jagong-cmu",
-          "christinamli",
           "Hef50",
-          "SamEthanMathew"
+          "SamEthanMathew",
+          "Yuxiang-Huang",
+          "alanpham06",
+          "christinamli",
+          "dsnarne",
+          "hanabenko",
+          "jagong-cmu",
+          "laasyaaki"
         ],
         "andrew_ids": [
-          "yh4",
-          "hbenko",
-          "dnarne",
           "alanp",
-          "laki",
-          "jagong",
           "cmli2",
+          "dnarne",
           "hareshmu",
-          "semathew"
+          "hbenko",
+          "jagong",
+          "laki",
+          "semathew",
+          "yh4"
         ]
       },
       "admins": {
         "github_usernames": [
+          "SamEthanMathew",
           "Yuxiang-Huang",
-          "hanabenko",
-          "SamEthanMathew"
+          "hanabenko"
         ],
         "andrew_ids": [
-          "yh4",
           "hbenko",
-          "semathew"
+          "semathew",
+          "yh4"
         ]
       },
       "repos": [
@@ -103,26 +399,26 @@
       "description": "The Labrador leadership team.",
       "members": {
         "github_usernames": [
+          "Hef50",
+          "SamEthanMathew",
           "Yuxiang-Huang",
+          "alanpham06",
+          "christinamli",
           "dsnarne",
           "hanabenko",
-          "alanpham06",
-          "laasyaaki",
           "jagong-cmu",
-          "christinamli",
-          "Hef50",
-          "SamEthanMathew"
+          "laasyaaki"
         ],
         "andrew_ids": [
-          "yh4",
-          "dnarne",
-          "hbenko",
           "alanp",
-          "laki",
-          "jagong",
           "cmli2",
+          "dnarne",
           "hareshmu",
-          "semathew"
+          "hbenko",
+          "jagong",
+          "laki",
+          "semathew",
+          "yh4"
         ]
       },
       "admins": {
@@ -131,8 +427,8 @@
           "hanabenko"
         ],
         "andrew_ids": [
-          "yh4",
-          "hbenko"
+          "hbenko",
+          "yh4"
         ]
       },
       "repos": [
@@ -160,7 +456,7 @@
         ]
       },
       "repos": [
-        "meet"
+        "Meet"
       ],
       "create_oidc_clients": true,
       "website": "meet.scottylabs.org",
@@ -218,24 +514,6 @@
       "website": "wiki.scottylabs.org",
       "server": "api.wiki.scottylabs.org"
     },
-    "cmuresearch": {
-      "name": "CMU Research",
-      "description": "The CMU Research team.",
-      "members": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "admins": {
-        "github_usernames": [],
-        "andrew_ids": [
-          "bryung"
-        ]
-      },
-      "repos": [],
-      "create_oidc_clients": true
-    },
     "cmuservice": {
       "name": "CMU Service",
       "description": "The CMU Service team.",
@@ -262,18 +540,18 @@
       "members": {
         "github_usernames": [],
         "andrew_ids": [
-          "yingyiw",
+          "mbatkhuu",
           "nayonk",
           "rushabhj",
-          "mbatkhuu"
+          "yingyiw"
         ]
       },
       "admins": {
         "github_usernames": [],
         "andrew_ids": [
-          "yingyiw",
           "nayonk",
-          "rushabhj"
+          "rushabhj",
+          "yingyiw"
         ]
       },
       "repos": [],
